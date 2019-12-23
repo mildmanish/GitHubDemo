@@ -31,7 +31,7 @@ page 50000 FileDemo
 
                 trigger OnAction()
                 begin
-                   
+                   // Comment required
                 end;
             }
         }
